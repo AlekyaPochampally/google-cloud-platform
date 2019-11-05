@@ -11,4 +11,4 @@
 - Sai Jyothsna Mathi
 
 
-![Team Members](team.png)
+![Team Members](team.PNG)

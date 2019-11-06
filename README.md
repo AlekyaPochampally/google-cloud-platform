@@ -5,7 +5,7 @@
 
 
 ## Group Members
-- Aekya Pochampally
+- Alekya Pochampally
 - Dheeraj Edupuganti
 - Sai Chandu Gampa
 - Sai Jyothsna Mathi
